@@ -4,7 +4,7 @@ This is a work in progress. Windows is giving me the BSOD, expect a working upda
 ## Guide:
 This is simply an adaptation of these:
 * [guide in the QubesOS documentation](https://www.qubes-os.org/doc/windows-vm/) 
-* [I assume this will also be useful.](https://www.militant.dk/2019/01/06/windows-10-on-qubes-os-4-0/)
+* [I assume this will also be useful](https://www.militant.dk/2019/01/06/windows-10-on-qubes-os-4-0/)
 
 ### Be safe and protect Dom0:
 1) Understand the code you execute in Dom0.
